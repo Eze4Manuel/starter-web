@@ -12,7 +12,7 @@ It gives an advance insight into Git and Github
 Sample website with plenty of files for demos
 used to provide simple examples for Git training demo
 
-## Solutions
+## Solutions Removed
 Added solutions feature
 
 ## Deployment
