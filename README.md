@@ -12,6 +12,9 @@ It gives an advance insight into Git and Github
 Sample website with plenty of files for demos
 used to provide simple examples for Git training demo
 
+## Solutions
+Added solutions feature
+
 ## Deployment
 A simple web project  deployment can be on any web server or even local file system
 
@@ -20,4 +23,5 @@ To Contribute you have to first understand the setup of the project
 
 ## Conclusion
 
-Forever yours
+
+## Copyrights
