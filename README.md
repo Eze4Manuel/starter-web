@@ -12,10 +12,10 @@ It gives an advance insight into Git and Github
 Sample website with plenty of files for demos
 used to provide simple examples for Git training demo
 
-## Solutions
+## Solutions Removed
 Added solutions feature
 
-## Deployment
+## Deployment Removed
 A simple web project  deployment can be on any web server or even local file system
 
 ## How to Contribute
